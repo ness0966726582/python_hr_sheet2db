@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "river-bruin-399807",
+  "private_key_id": "c0ef76da4a6eae2a673e16573f65b57b400bf3c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9nTED+vicEF2W\n7imEHBOziSj1LKFAsA/Lu9Ws2jwPylA98ajjmeuU+QQvtFjCIoyO8LlQ1DPxjrGx\nbPhZHwa4J3lyK5rNEnbw/g+nKT8j6p6RPEjTDnvlqZ8+N6K4ByVENa0HmepRs5+J\ntw7IKUD2MU++YO1Ui/uo1QO3debvADn9OfgskWx+S6774+IB1bnsWwN+ukr+Cd7W\nWNqVX1mIWjmAOFba5NsjZYNpRZZvNdY5eE5vFDFEQvYYFVYo74URrAxpHcjOadwB\nTYbCXENaHSNNXG+9QP6zdfL9T5ovzU2jakH2kmQgNTwEjWuN6Xa2uToLbM20ps+s\nPJ3pBA1xAgMBAAECggEAH6u6TKpmTRb0sumL2Kuh5MqDo1P1iSr/MG3q1kjLYG3P\n8lDDf2Stsz/WoaszahXAOX3ezi/rjyzg5DxJzQUAJ9E8GURMQnWTlVQyRB8BE1w0\naRjTJyGTszweQ5OiY6+Z22dFw+/C8iuY+bUwTGGLnrOE2M0yxvzsp3oQ+VtBm+i5\nq5gISXF6qLbqXCMXF51DeAnAASC8pkBrlzq7e2MPgRdp47lEd98Tg2GP8N+Xw0Dz\n+m+Qn1EKRpMl3K5vLmGsOBgHn8yUOa2C9cmUEsXrKplVcn5lIQHFByro694wiL/Z\n95fdBE1kUbwTaYY3fJSnUFLD+JmGwB31pD4EyAHI4wKBgQDfLa+DxB6TAJpR23Ex\nwv93Eb82rhx03l20R1kDITFfANkyIT26JIjY2vQ0aI5alWfaI5qhleK1Yz9sJFjR\nNKSbnlG102kBKvtbv8bXBFg8j4tnfyxGPxwuU8nvzkoDajQsEe8aN1WuRv0H8rzS\nAgWPPu6we7LV3aKXOlGhd09nYwKBgQDZf9u/toejQ9I+UFg7pb2lGuqQkAF6zMEQ\n1HkYdCe8qyWcjNMPp1IkfJe5nIz7opiHjaCEqVo7kEAcfucBDBSAPYXp72xx5ckD\n3jbuIQ7AKep49ZAdKJ8xzZ/3YPMIuU+uTDPe5+6Gyr7q8BCtr9r5FxYUmN7gH2eG\nbCY/M0MiGwKBgFWOig6VjLMGNCLVYVuWSaE36Hnp3XbgGEQYZgNRIkAtbxZMsAFA\nKEYaCixdONV5GUsDAzCW6UZoOdQXSwVIjSIrW1+9IDAWbi4KIwwi2kC9NtACbNKx\nNvh7npqUFsOgX0fVyDfgprQc+rulTsWjiMYVdiOqCDD8umwHK2we9Q3JAoGBAKsD\nl3t0P84lo4gPkHDF7wmE0m58bE1r9VoQVm7d1ejJATfImqOyQioiNQJij4/D1v6u\nY0osBqDS2TYOqf/uyafTuBmqgbBEpvt9m9886uY5jv0wx/HFYPa94UuXVUDExFwd\n2qMn5irh+5+qxtJqdVhpyJjFYmkDCFlva9tBqUWFAoGAXtK0d6lo6vyEC8CaF7I2\n4GS9+EvpVu7c5HvyfJVycnhVIu7fl3K6z6KJLRXoezF8UYoSXvGyIJT6JxyupO1M\nMhJo33f0pugrBqib6M2qcdKf6wjoZ/Rqsf/mCqpivopRpxnvlZFMMSaBwG9azPrw\nAuSGS4ZhU5q5bdgNfyZuG6s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pm-robot@river-bruin-399807.iam.gserviceaccount.com",
+  "client_id": "111008737072443323338",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pm-robot%40river-bruin-399807.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
